@@ -921,7 +921,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // Function to simulate typing effect for header text
 document.addEventListener("DOMContentLoaded", function () {
-  const headerText = "To-Do List Application";
+  const headerText = "Task Scheduler Application";
   const headerElement = document.getElementById("todo-header");
 
   function typeText(text, index) {
